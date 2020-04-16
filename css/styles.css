@@ -11,6 +11,7 @@ body {
     transform: translate(-50%, -50%)
 }
 .container{
+    <img src="image.jpeg/backgrounds/h_img.jpg" height="700px">
     position: relative;
     text-align: center;
     color: white;
