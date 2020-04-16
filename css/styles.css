@@ -60,15 +60,7 @@ body {
 .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
 }
-.flip-card-front {
-    background-color: #bbb;
-    color: black;
-}
-.flip-card-back {
-    background-color: black;
-    color: white;
-    transform: rotateY(180deg);
-}
+
 .contact {
     background: url(../image.jpeg/backgrounds/c_image.jpg);
     width: 100%;
