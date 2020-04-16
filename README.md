@@ -13,9 +13,8 @@
  * JQUERY
  * BOOTSTRAP 
 ## Support and contact details
-  incase of any concern reach out to the author via issackhalima@gmail.com
-### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) 2020 <br>**Halima Isack**
+  incase of any concern reach out to the author via issackhalima@gmail.com<br>
+<a href="https://github.com/halimtullah/delanis-Studio-A/new/master">LICENSE</a><br>
+(c) MIT 2020 <br>**Halima Isack**
   
 
